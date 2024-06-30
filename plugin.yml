@@ -1,0 +1,10 @@
+name: ManhuntTracker
+version: 1.0
+main: com.example.LocationTracker
+author: gufl
+description: A plugin for Minecraft to track player locations
+api-version: 1.20
+commands:
+  givecompass:
+    description: Give Tracking Compass to a player.
+    usage: /givecompass
